@@ -1,0 +1,25 @@
+﻿<Window x:Class="WpfApplication1.Window3"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Window3" Height="400" Width="500" Loaded="Window_Loaded">
+    <Grid>
+        <Grid.RowDefinitions >
+            <RowDefinition Height="250"/>
+            <RowDefinition Height="auto"/>
+            <RowDefinition Height="73*"/>
+        </Grid.RowDefinitions>
+        <Viewbox Stretch="Fill" Grid.Row="0" Name="viewBoxTest">
+            <TextBlock>通过调查发现，被阿里打假驱逐的30家售假商家中，竟有12家转战到了京东上。</TextBlock>
+        </Viewbox>
+        <WrapPanel Grid.Row="2">
+            <StackPanel>
+                <Label Content="拉升模式:" Height="20" HorizontalAlignment="Left" VerticalAlignment="Bottom" Width="66" Padding="0"/>
+                <ComboBox Name="cbStretch" HorizontalAlignment="Left" VerticalAlignment="Bottom" Height="21" Width="139" Margin="2" SelectionChanged="cbStretch_SelectionChanged"/>
+            </StackPanel>
+            <StackPanel Margin="10,0">
+                <Label Content="拉伸方向:" Height="20" HorizontalAlignment="Right" VerticalAlignment="Bottom" Width="66" Padding="0" />
+                <ComboBox x:Name="cbStretchDirection" Height="21" HorizontalAlignment="Right"  VerticalAlignment="Bottom" Width="139" SelectionChanged="cbStretchDirection_SelectionChanged" />
+            </StackPanel>
+        </WrapPanel>
+    </Grid>
+</Window>

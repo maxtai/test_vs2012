@@ -26,3 +26,5 @@ E:\codeProjects\test_vs2012\WpfApplication1\WpfApplication1\obj\Debug\Window1.g.
 E:\codeProjects\test_vs2012\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.csprojResolveAssemblyReference.cache
 E:\codeProjects\test_vs2012\WpfApplication1\WpfApplication1\obj\Debug\Window2.baml
 E:\codeProjects\test_vs2012\WpfApplication1\WpfApplication1\obj\Debug\Window2.g.cs
+E:\codeProjects\test_vs2012\WpfApplication1\WpfApplication1\obj\Debug\Window3.baml
+E:\codeProjects\test_vs2012\WpfApplication1\WpfApplication1\obj\Debug\Window3.g.cs
