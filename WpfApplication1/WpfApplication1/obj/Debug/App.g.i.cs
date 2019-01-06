@@ -59,7 +59,7 @@ namespace WpfApplication1 {
             #line hidden
             
             #line 4 "..\..\App.xaml"
-            this.StartupUri = new System.Uri("Window3.xaml", System.UriKind.Relative);
+            this.StartupUri = new System.Uri("Window2.xaml", System.UriKind.Relative);
             
             #line default
             #line hidden

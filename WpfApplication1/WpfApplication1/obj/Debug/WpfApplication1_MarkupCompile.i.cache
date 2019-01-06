@@ -10,11 +10,11 @@ none
 false
 DEBUG;TRACE
 E:\codeProjects\test_vs2012\WpfApplication1\WpfApplication1\App.xaml
-4348046860
+4-1528811889
 
-9-436081093
+9760891146
 141881241103
-MainWindow.xaml;Window1.xaml;Window2.xaml;Window3.xaml;
+MainWindow.xaml;Window1.xaml;DockPanel.xaml;ViewBox.xaml;
 
 False
 
