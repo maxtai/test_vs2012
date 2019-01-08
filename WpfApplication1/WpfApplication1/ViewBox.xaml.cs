@@ -18,6 +18,9 @@ namespace WpfApplication1
     /// </summary>
     public partial class Window3 : Window
     {
+        List<StretchClass> stretch = new List<StretchClass>();
+        List<StretchDirectionClass> stretchdirectionclass = new List<StretchDirectionClass>();
+
         public Window3()
         {
             InitializeComponent();
@@ -44,7 +47,7 @@ namespace WpfApplication1
         private void Bindcb()
         {
             //cbStretch
-            List<StretchClass> stretch = new List<StretchClass>();
+
             stretch.Add(new StretchClass() { stretchname = "Fill", stretchMode = Stretch.Fill });
             stretch.Add(new StretchClass() { stretchname = "Uniform", stretchMode = Stretch.Uniform });
             stretch.Add(new StretchClass() { stretchname = "UniformToFill", stretchMode = Stretch.UniformToFill });
@@ -54,7 +57,7 @@ namespace WpfApplication1
             cbStretch.DisplayMemberPath = "stretchname";
 
             //cbStretchDirection
-            List<StretchDirectionClass> stretchdirectionclass = new List<StretchDirectionClass>();
+
             stretchdirectionclass.Add(new StretchDirectionClass() { stretchDirectionName = "Both", stretchDirectionMode = StretchDirection.Both });
             stretchdirectionclass.Add(new StretchDirectionClass() { stretchDirectionName = "DownOnly", stretchDirectionMode = StretchDirection.DownOnly });
             stretchdirectionclass.Add(new StretchDirectionClass() { stretchDirectionName = "UpOnly", stretchDirectionMode = StretchDirection.UpOnly });

@@ -24,7 +24,13 @@ E:\codeProjects\test_vs2012\WpfApplication1\WpfApplication1\obj\Debug\WpfApplica
 E:\codeProjects\test_vs2012\WpfApplication1\WpfApplication1\obj\Debug\Window1.baml
 E:\codeProjects\test_vs2012\WpfApplication1\WpfApplication1\obj\Debug\Window1.g.cs
 E:\codeProjects\test_vs2012\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.csprojResolveAssemblyReference.cache
-E:\codeProjects\test_vs2012\WpfApplication1\WpfApplication1\obj\Debug\Window2.baml
-E:\codeProjects\test_vs2012\WpfApplication1\WpfApplication1\obj\Debug\Window2.g.cs
-E:\codeProjects\test_vs2012\WpfApplication1\WpfApplication1\obj\Debug\Window3.baml
-E:\codeProjects\test_vs2012\WpfApplication1\WpfApplication1\obj\Debug\Window3.g.cs
+E:\codeProjects\test_vs2012\WpfApplication1\WpfApplication1\obj\Debug\DockPanel.baml
+E:\codeProjects\test_vs2012\WpfApplication1\WpfApplication1\obj\Debug\ViewBox.baml
+E:\codeProjects\test_vs2012\WpfApplication1\WpfApplication1\obj\Debug\DockPanel.g.cs
+E:\codeProjects\test_vs2012\WpfApplication1\WpfApplication1\obj\Debug\ViewBox.g.cs
+E:\codeProjects\test_vs2012\WpfApplication1\WpfApplication1\obj\Debug\Border.baml
+E:\codeProjects\test_vs2012\WpfApplication1\WpfApplication1\obj\Debug\Border.g.cs
+E:\codeProjects\test_vs2012\WpfApplication1\WpfApplication1\obj\Debug\ScrollViewer.baml
+E:\codeProjects\test_vs2012\WpfApplication1\WpfApplication1\obj\Debug\ScrollViewer.g.cs
+E:\codeProjects\test_vs2012\WpfApplication1\WpfApplication1\obj\Debug\WindowComposite.baml
+E:\codeProjects\test_vs2012\WpfApplication1\WpfApplication1\obj\Debug\WindowComposite.g.cs
